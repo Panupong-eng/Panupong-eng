@@ -1,27 +1,39 @@
-<h1 align="center">
-  👾 Hey, I'm <a href="https://github.com/Panupong-eng" target="_blank">Tontan</a> 👾
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="120" alt="Neon Code" />
+  </a>
+</p>
+
+<h1 align="center" style="color:#00FFF7; text-shadow: 0 0 8px #00FFF7;">
+  <code>╔═╗╦ ╦╔═╗╔╗╔  ╔═╗╔═╗╔╦╗╦ ╦╦═╗╦  ╔═╗╦═╗╔═╗</code><br/>
+  <code>╠═╝╠═╣║╣ ║║║  ║  ║ ║║║║║ ║╠╦╝║  ║ ║╠╦╝╚═╗</code><br/>
+  <code>╩  ╩ ╩╚═╝╝╚╝  ╚═╝╚═╝╩ ╩╚═╝╩╚═╩═╝╚═╝╩╚═╚═╝</code>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <i>Code Ninja ⚔️ | AI Explorer 🤖 | Coffee Addict ☕</i>
+  <em>“Welcome to the Neon Future of Coding”</em>  
+  <br/>
+  <sub>✨ Powered by ⚡ Cybernetic AI & Neon Dreams</sub>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔥 Current Projects
 
-```css
-:root {
-  --main-color: #00fff7;
-  --accent-color: #ff00ff;
-}
+| Project | Description | Status |
+|--------|-------------|--------|
+| <a href="https://github.com/yourusername/cyber-ai">Cyber AI</a> | Self-learning AI bot with quantum logic | <kbd style="color:#00FF00;">● Active</kbd> |
+| <a href="https://github.com/yourusername/neon-vr">Neon VR</a> | Immersive VR experience powered by WebXR | <kbd style="color:#FFA500;">● Beta</kbd> |
+| <a href="https://github.com/yourusername/blockchain">Blockchain</a> | Decentralized finance dApp with smart contracts | <kbd style="color:#FF0000;">● Planning</kbd> |
 
-body {
-  background: linear-gradient(45deg, var(--main-color), var(--accent-color));
-  color: white;
-  font-family: 'Fira Code', monospace;
-}
+---
+
+## ⚙️ Tech Stack
+
+```text
+██╗  ██╗███████╗ ██████╗ ██╗      █████╗ ██████╗ ██╗   ██╗
+██║  ██║██╔════╝██╔═══██╗██║     ██╔══██╗██╔══██╗██║   ██║
+███████║█████╗  ██║   ██║██║     ███████║██████╔╝██║   ██║
+██╔══██║██╔══╝  ██║   ██║██║     ██╔══██║██╔═══╝ ██║   ██║
+██║  ██║███████╗╚██████╔╝███████╗██║  ██║██║     ╚██████╔╝
+╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ 
