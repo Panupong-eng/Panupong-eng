@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 ```css
-/* Just a little magic */
 :root {
   --main-color: #00fff7;
   --accent-color: #ff00ff;
